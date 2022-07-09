@@ -13,3 +13,7 @@ body{
 .song_name{
     font-size: 20px;
 }
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
